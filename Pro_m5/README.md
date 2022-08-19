@@ -3,7 +3,7 @@
 # Instalação
 git clone https://github.com/rafaelapalves/Pro_m5.git
 # Como utilizar
-python modulo1.py
+python M1.py
 # Comandos relevantes
 python M1.py -t "texto de alteração"
 # Outras Observações
